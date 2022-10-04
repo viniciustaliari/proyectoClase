@@ -17,6 +17,7 @@ header{
     background-color: rgb(97, 95, 95);
     height: 6rem;
     min-width: 485px;
+    position: fixed;
 }
 
 .nav_bar{
